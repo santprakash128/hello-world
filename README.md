@@ -1,2 +1,6 @@
 # hello-world
-The Hello World Repository
+Hello there
+My self Sant Prakash and I am here for fun with my code.
+I'm diggin' GitHub!
+
+
